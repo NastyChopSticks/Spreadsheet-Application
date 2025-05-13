@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<spreadsheet>
+  <cell name="A1">
+    <bgcolor>4294967295</bgcolor>
+    <text>12</text>
+  </cell>
+  <cell name="B1">
+    <bgcolor>4294967295</bgcolor>
+    <text>14</text>
+  </cell>
+  <cell name="A2">
+    <bgcolor>4278255360</bgcolor>
+    <text>=A1*2</text>
+  </cell>
+  <cell name="B2">
+    <bgcolor>4278255360</bgcolor>
+    <text />
+  </cell>
+  <cell name="A3">
+    <bgcolor>4278255360</bgcolor>
+    <text />
+  </cell>
+  <cell name="B3">
+    <bgcolor>4278255360</bgcolor>
+    <text />
+  </cell>
+</spreadsheet>

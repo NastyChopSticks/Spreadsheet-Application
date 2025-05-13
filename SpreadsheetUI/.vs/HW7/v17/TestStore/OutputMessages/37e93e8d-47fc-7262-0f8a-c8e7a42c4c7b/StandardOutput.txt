@@ -1,0 +1,57 @@
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 10
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new text: 10
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 1722641943
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: =A1*5
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new text: =A1*5
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new value: 50
+PropertyChanged triggered for SpreadsheetEngine.SpreadsheetCell with new color: 4294967295

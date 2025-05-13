@@ -1,0 +1,22 @@
+C:\Users\kaden\Desktop\CPTS CLASSES\CPTS321\cpts321-kaden_metzger-hws\SpreadsheetEngine\bin\Debug\net8.0\SpreadsheetEngine.deps.json
+C:\Users\kaden\Desktop\CPTS CLASSES\CPTS321\cpts321-kaden_metzger-hws\SpreadsheetEngine\bin\Debug\net8.0\SpreadsheetEngine.dll
+C:\Users\kaden\Desktop\CPTS CLASSES\CPTS321\cpts321-kaden_metzger-hws\SpreadsheetEngine\bin\Debug\net8.0\SpreadsheetEngine.pdb
+C:\Users\kaden\Desktop\CPTS CLASSES\CPTS321\cpts321-kaden_metzger-hws\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaden\Desktop\CPTS CLASSES\CPTS321\cpts321-kaden_metzger-hws\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.AssemblyInfoInputs.cache
+C:\Users\kaden\Desktop\CPTS CLASSES\CPTS321\cpts321-kaden_metzger-hws\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.AssemblyInfo.cs
+C:\Users\kaden\Desktop\CPTS CLASSES\CPTS321\cpts321-kaden_metzger-hws\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+C:\Users\kaden\Desktop\CPTS CLASSES\CPTS321\cpts321-kaden_metzger-hws\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.dll
+C:\Users\kaden\Desktop\CPTS CLASSES\CPTS321\cpts321-kaden_metzger-hws\SpreadsheetEngine\obj\Debug\net8.0\refint\SpreadsheetEngine.dll
+C:\Users\kaden\Desktop\CPTS CLASSES\CPTS321\cpts321-kaden_metzger-hws\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.pdb
+C:\Users\kaden\Desktop\CPTS CLASSES\CPTS321\cpts321-kaden_metzger-hws\SpreadsheetEngine\obj\Debug\net8.0\ref\SpreadsheetEngine.dll
+C:\Users\kaden\Desktop\Spreadsheet-Clone\SpreadsheetEngine\bin\Debug\net8.0\SpreadsheetEngine.deps.json
+C:\Users\kaden\Desktop\Spreadsheet-Clone\SpreadsheetEngine\bin\Debug\net8.0\SpreadsheetEngine.dll
+C:\Users\kaden\Desktop\Spreadsheet-Clone\SpreadsheetEngine\bin\Debug\net8.0\SpreadsheetEngine.pdb
+C:\Users\kaden\Desktop\Spreadsheet-Clone\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaden\Desktop\Spreadsheet-Clone\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.AssemblyInfoInputs.cache
+C:\Users\kaden\Desktop\Spreadsheet-Clone\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.AssemblyInfo.cs
+C:\Users\kaden\Desktop\Spreadsheet-Clone\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+C:\Users\kaden\Desktop\Spreadsheet-Clone\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.dll
+C:\Users\kaden\Desktop\Spreadsheet-Clone\SpreadsheetEngine\obj\Debug\net8.0\refint\SpreadsheetEngine.dll
+C:\Users\kaden\Desktop\Spreadsheet-Clone\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.pdb
+C:\Users\kaden\Desktop\Spreadsheet-Clone\SpreadsheetEngine\obj\Debug\net8.0\ref\SpreadsheetEngine.dll

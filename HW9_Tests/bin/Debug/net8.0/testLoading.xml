@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spreadsheet>
+  <cell unusedattr="abc" name="A1">
+    <bgcolor>1723045399</bgcolor>
+    <text>=8*5</text>
+    <extratag></extratag>
+    <anothertag></anothertag>
+  </cell>
+</spreadsheet>

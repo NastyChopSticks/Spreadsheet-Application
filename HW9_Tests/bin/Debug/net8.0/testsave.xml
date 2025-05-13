@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<spreadsheet>
+  <cell name="A1">
+    <bgcolor>1723045399</bgcolor>
+    <text>10</text>
+  </cell>
+  <cell name="B1">
+    <bgcolor>2569586752</bgcolor>
+    <text>=A1*5</text>
+  </cell>
+</spreadsheet>

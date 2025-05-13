@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaden\\Desktop\\Spreadsheet-Clone\\SpreadsheetUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{632BB2E4-6678-42BB-A639-1CFD0A6B65BB}|HW7.csproj|c:\\users\\kaden\\desktop\\spreadsheet-clone\\spreadsheetui\\stylecop.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{632BB2E4-6678-42BB-A639-1CFD0A6B65BB}|HW7.csproj|solutionrelative:stylecop.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632BB2E4-6678-42BB-A639-1CFD0A6B65BB}|HW7.csproj|c:\\users\\kaden\\desktop\\spreadsheet-clone\\spreadsheetui\\hw7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{632BB2E4-6678-42BB-A639-1CFD0A6B65BB}|HW7.csproj|solutionrelative:hw7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632BB2E4-6678-42BB-A639-1CFD0A6B65BB}|HW7.csproj|c:\\users\\kaden\\desktop\\spreadsheet-clone\\spreadsheetui\\hw7.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{632BB2E4-6678-42BB-A639-1CFD0A6B65BB}|HW7.csproj|solutionrelative:hw7.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632BB2E4-6678-42BB-A639-1CFD0A6B65BB}|HW7.csproj|C:\\Users\\kaden\\Desktop\\Spreadsheet-Clone\\SpreadsheetUI\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{632BB2E4-6678-42BB-A639-1CFD0A6B65BB}|HW7.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW10Tests\\TestingCells.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\OperatorNode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW7Tests\\HW7Tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW6Tests\\ExpressionTreeTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\SelfReferenceException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\ExpressionTree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\Spreadsheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW9_Tests\\XMLFileTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\SpreadsheetCell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\GlobalSuppressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stylecop.json",
+              "DocumentMoniker": "C:\\Users\\kaden\\Desktop\\Spreadsheet-Clone\\SpreadsheetUI\\stylecop.json",
+              "RelativeDocumentMoniker": "stylecop.json",
+              "ToolTip": "C:\\Users\\kaden\\Desktop\\Spreadsheet-Clone\\SpreadsheetUI\\stylecop.json",
+              "RelativeToolTip": "stylecop.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T16:40:12.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestingCells.cs",
+              "DocumentMoniker": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW10Tests\\TestingCells.cs",
+              "RelativeDocumentMoniker": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW10Tests\\TestingCells.cs",
+              "ToolTip": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW10Tests\\TestingCells.cs",
+              "RelativeToolTip": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW10Tests\\TestingCells.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:17:21.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OperatorNode.cs",
+              "DocumentMoniker": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\OperatorNode.cs",
+              "RelativeDocumentMoniker": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\OperatorNode.cs",
+              "ToolTip": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\OperatorNode.cs",
+              "RelativeToolTip": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\OperatorNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T02:43:23.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HW7Tests.cs",
+              "DocumentMoniker": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW7Tests\\HW7Tests.cs",
+              "RelativeDocumentMoniker": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW7Tests\\HW7Tests.cs",
+              "ToolTip": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW7Tests\\HW7Tests.cs",
+              "RelativeToolTip": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW7Tests\\HW7Tests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T00:32:11.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExpressionTreeTests.cs",
+              "DocumentMoniker": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW6Tests\\ExpressionTreeTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW6Tests\\ExpressionTreeTests.cs",
+              "ToolTip": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW6Tests\\ExpressionTreeTests.cs",
+              "RelativeToolTip": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW6Tests\\ExpressionTreeTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T00:28:26.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SelfReferenceException.cs",
+              "DocumentMoniker": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\SelfReferenceException.cs",
+              "RelativeDocumentMoniker": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\SelfReferenceException.cs",
+              "ToolTip": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\SelfReferenceException.cs",
+              "RelativeToolTip": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\SelfReferenceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:25:12.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExpressionTree.cs",
+              "DocumentMoniker": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\ExpressionTree.cs",
+              "RelativeDocumentMoniker": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\ExpressionTree.cs",
+              "ToolTip": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\ExpressionTree.cs",
+              "RelativeToolTip": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\ExpressionTree.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAswAwBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:57:13.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Spreadsheet.cs",
+              "DocumentMoniker": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\Spreadsheet.cs",
+              "RelativeDocumentMoniker": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\Spreadsheet.cs",
+              "ToolTip": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\Spreadsheet.cs",
+              "RelativeToolTip": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\Spreadsheet.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAWwOMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:35:32.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HW7.csproj",
+              "DocumentMoniker": "C:\\Users\\kaden\\Desktop\\Spreadsheet-Clone\\SpreadsheetUI\\HW7.csproj",
+              "RelativeDocumentMoniker": "HW7.csproj",
+              "ToolTip": "C:\\Users\\kaden\\Desktop\\Spreadsheet-Clone\\SpreadsheetUI\\HW7.csproj",
+              "RelativeToolTip": "HW7.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-11T15:45:05.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XMLFileTests.cs",
+              "DocumentMoniker": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW9_Tests\\XMLFileTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW9_Tests\\XMLFileTests.cs",
+              "ToolTip": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW9_Tests\\XMLFileTests.cs",
+              "RelativeToolTip": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW9_Tests\\XMLFileTests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:43:41.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SpreadsheetCell.cs",
+              "DocumentMoniker": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\SpreadsheetCell.cs",
+              "RelativeDocumentMoniker": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\SpreadsheetCell.cs",
+              "ToolTip": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\SpreadsheetCell.cs",
+              "RelativeToolTip": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\SpreadsheetCell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:35:31.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GlobalSuppressions.cs",
+              "DocumentMoniker": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\GlobalSuppressions.cs",
+              "RelativeDocumentMoniker": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\GlobalSuppressions.cs",
+              "ToolTip": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\GlobalSuppressions.cs",
+              "RelativeToolTip": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\SpreadsheetEngine\\GlobalSuppressions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:03:07.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HW7",
+              "DocumentMoniker": "C:\\Users\\kaden\\Desktop\\Spreadsheet-Clone\\SpreadsheetUI\\HW7.csproj",
+              "RelativeDocumentMoniker": "HW7.csproj",
+              "ToolTip": "C:\\Users\\kaden\\Desktop\\Spreadsheet-Clone\\SpreadsheetUI\\HW7.csproj",
+              "RelativeToolTip": "HW7.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-11T15:44:17.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kaden\\Desktop\\Spreadsheet-Clone\\SpreadsheetUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\kaden\\Desktop\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW7\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\CPTS CLASSES\\CPTS321\\cpts321-kaden_metzger-hws\\HW7\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:58:48.302Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
