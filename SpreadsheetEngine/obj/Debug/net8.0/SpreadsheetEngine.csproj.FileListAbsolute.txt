@@ -20,3 +20,15 @@ C:\Users\kaden\Desktop\Spreadsheet-Clone\SpreadsheetEngine\obj\Debug\net8.0\Spre
 C:\Users\kaden\Desktop\Spreadsheet-Clone\SpreadsheetEngine\obj\Debug\net8.0\refint\SpreadsheetEngine.dll
 C:\Users\kaden\Desktop\Spreadsheet-Clone\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.pdb
 C:\Users\kaden\Desktop\Spreadsheet-Clone\SpreadsheetEngine\obj\Debug\net8.0\ref\SpreadsheetEngine.dll
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetEngine\bin\Debug\net8.0\SpreadsheetEngine.deps.json
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetEngine\bin\Debug\net8.0\SpreadsheetEngine.dll
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetEngine\bin\Debug\net8.0\SpreadsheetEngine.pdb
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.AssemblyInfoInputs.cache
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.AssemblyInfo.cs
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.sourcelink.json
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.dll
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetEngine\obj\Debug\net8.0\refint\SpreadsheetEngine.dll
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.pdb
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetEngine\obj\Debug\net8.0\ref\SpreadsheetEngine.dll

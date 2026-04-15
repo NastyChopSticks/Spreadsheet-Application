@@ -8,7 +8,6 @@
     ".NETCoreApp,Version=v8.0": {
       "HW6Tests/1.0.0": {
         "dependencies": {
-          "HW6": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.8.0",
           "NUnit": "3.14.0",
           "NUnit.Analyzers": "3.9.0",
@@ -320,17 +319,6 @@
       "NUnit3TestAdapter/4.5.0": {},
       "StyleCop.Analyzers/1.1.118": {},
       "System.Reflection.Metadata/1.6.0": {},
-      "HW6/1.0.0": {
-        "dependencies": {
-          "SpreadsheetEngine": "1.0.0"
-        },
-        "runtime": {
-          "HW6.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
       "SpreadsheetEngine/1.0.0": {
         "runtime": {
           "SpreadsheetEngine.dll": {
@@ -444,11 +432,6 @@
       "sha512": "sha512-COC1aiAJjCoA5GBF+QKL2uLqEBew4JsCkQmoHKbN3TlOZKa2fKLz5CpiRQKDz0RsAOEGsVKqOD5bomsXq/4STQ==",
       "path": "system.reflection.metadata/1.6.0",
       "hashPath": "system.reflection.metadata.1.6.0.nupkg.sha512"
-    },
-    "HW6/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     },
     "SpreadsheetEngine/1.0.0": {
       "type": "project",

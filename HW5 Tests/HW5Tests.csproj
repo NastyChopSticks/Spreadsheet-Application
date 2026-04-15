@@ -31,7 +31,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HW6\HW6.csproj" />
+  
     <ProjectReference Include="..\SpreadsheetEngine\SpreadsheetEngine.csproj" />
   </ItemGroup>
 

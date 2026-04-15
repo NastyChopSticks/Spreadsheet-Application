@@ -1004,11 +1004,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaden\\Desktop\\Spreadsheet-Clone\\HW10Tests\\HW10Tests.csproj",
+      "projectUniqueName": "C:\\Users\\kaden\\Desktop\\Programming Projects\\Spreadsheet-Clone\\Spreadsheet-Application\\HW10Tests\\HW10Tests.csproj",
       "projectName": "HW10Tests",
-      "projectPath": "C:\\Users\\kaden\\Desktop\\Spreadsheet-Clone\\HW10Tests\\HW10Tests.csproj",
+      "projectPath": "C:\\Users\\kaden\\Desktop\\Programming Projects\\Spreadsheet-Clone\\Spreadsheet-Application\\HW10Tests\\HW10Tests.csproj",
       "packagesPath": "C:\\Users\\kaden\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaden\\Desktop\\Spreadsheet-Clone\\HW10Tests\\obj\\",
+      "outputPath": "C:\\Users\\kaden\\Desktop\\Programming Projects\\Spreadsheet-Clone\\Spreadsheet-Application\\HW10Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1029,8 +1029,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\kaden\\Desktop\\Spreadsheet-Clone\\SpreadsheetEngine\\SpreadsheetEngine.csproj": {
-              "projectPath": "C:\\Users\\kaden\\Desktop\\Spreadsheet-Clone\\SpreadsheetEngine\\SpreadsheetEngine.csproj"
+            "C:\\Users\\kaden\\Desktop\\Programming Projects\\Spreadsheet-Clone\\Spreadsheet-Application\\SpreadsheetEngine\\SpreadsheetEngine.csproj": {
+              "projectPath": "C:\\Users\\kaden\\Desktop\\Programming Projects\\Spreadsheet-Clone\\Spreadsheet-Application\\SpreadsheetEngine\\SpreadsheetEngine.csproj"
             }
           }
         }

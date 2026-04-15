@@ -40,3 +40,25 @@ C:\Users\kaden\Desktop\Spreadsheet-Clone\SpreadsheetUI\obj\Debug\net8.0-windows\
 C:\Users\kaden\Desktop\Spreadsheet-Clone\SpreadsheetUI\obj\Debug\net8.0-windows\HW7.pdb
 C:\Users\kaden\Desktop\Spreadsheet-Clone\SpreadsheetUI\obj\Debug\net8.0-windows\HW7.genruntimeconfig.cache
 C:\Users\kaden\Desktop\Spreadsheet-Clone\SpreadsheetUI\obj\Debug\net8.0-windows\ref\HW7.dll
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\bin\Debug\net8.0-windows\HW7.exe
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\bin\Debug\net8.0-windows\HW7.deps.json
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\bin\Debug\net8.0-windows\HW7.runtimeconfig.json
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\bin\Debug\net8.0-windows\HW7.dll
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\bin\Debug\net8.0-windows\HW7.pdb
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\bin\Debug\net8.0-windows\SpreadsheetEngine.dll
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\bin\Debug\net8.0-windows\SpreadsheetEngine.pdb
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\obj\Debug\net8.0-windows\HW7.csproj.AssemblyReference.cache
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\obj\Debug\net8.0-windows\HW7.Form1.resources
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\obj\Debug\net8.0-windows\HW7.Properties.Resources.resources
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\obj\Debug\net8.0-windows\HW7.csproj.GenerateResource.cache
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\obj\Debug\net8.0-windows\HW7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\obj\Debug\net8.0-windows\HW7.AssemblyInfoInputs.cache
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\obj\Debug\net8.0-windows\HW7.AssemblyInfo.cs
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\obj\Debug\net8.0-windows\HW7.csproj.CoreCompileInputs.cache
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\obj\Debug\net8.0-windows\HW7.sourcelink.json
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\obj\Debug\net8.0-windows\HW7.csproj.Up2Date
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\obj\Debug\net8.0-windows\HW7.dll
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\obj\Debug\net8.0-windows\refint\HW7.dll
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\obj\Debug\net8.0-windows\HW7.pdb
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\obj\Debug\net8.0-windows\HW7.genruntimeconfig.cache
+C:\Users\kaden\Desktop\Programming Projects\Spreadsheet-Clone\Spreadsheet-Application\SpreadsheetUI\obj\Debug\net8.0-windows\ref\HW7.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "akoKlsRfJ5U=",
+  "dgSpecHash": "cqEBKgD6wm0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kaden\\Desktop\\Spreadsheet-Clone\\HW8_Tests\\HW8_Tests.csproj",
+  "projectFilePath": "C:\\Users\\kaden\\Desktop\\Programming Projects\\Spreadsheet-Clone\\Spreadsheet-Application\\HW8_Tests\\HW8_Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kaden\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\kaden\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

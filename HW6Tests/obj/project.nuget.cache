@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jM+qoIS9GL0=",
-  "success": false,
-  "projectFilePath": "C:\\Users\\kaden\\Desktop\\Spreadsheet-Clone\\HW6Tests\\HW6Tests.csproj",
+  "dgSpecHash": "RN2ANPP8XVA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaden\\Desktop\\Programming Projects\\Spreadsheet-Clone\\Spreadsheet-Application\\HW6Tests\\HW6Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kaden\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\kaden\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
@@ -19,15 +19,5 @@
     "C:\\Users\\kaden\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
     "C:\\Users\\kaden\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\kaden\\Desktop\\Spreadsheet-Clone\\HW6\\HW6.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\kaden\\Desktop\\Spreadsheet-Clone\\HW6\\HW6.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }
