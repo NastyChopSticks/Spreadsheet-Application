@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HW5Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daa063db5409c3951183ba2f17fcb6b85da9a3ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6679e437393fe51fe529eb9fae48c07aed05c638")]
 [assembly: System.Reflection.AssemblyProductAttribute("HW5Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HW5Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

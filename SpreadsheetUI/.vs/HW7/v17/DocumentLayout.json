@@ -3,18 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\kaden\\Desktop\\Programming Projects\\Spreadsheet-Clone\\Spreadsheet-Application\\SpreadsheetUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFFF311F-574E-4728-9E51-F7E1AF12977C}|..\\HW6Tests\\HW6Tests.csproj|c:\\users\\kaden\\desktop\\programming projects\\spreadsheet-clone\\spreadsheet-application\\hw6tests\\hw6tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F9D6B64-8DDF-43E7-B6C4-F39D0D31EA4B}|..\\HW5 Tests\\HW5Tests.csproj|c:\\users\\kaden\\desktop\\programming projects\\spreadsheet-clone\\spreadsheet-application\\hw5 tests\\hw5tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{632BB2E4-6678-42BB-A639-1CFD0A6B65BB}|HW7.csproj|c:\\users\\kaden\\desktop\\programming projects\\spreadsheet-clone\\spreadsheet-application\\spreadsheetui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{632BB2E4-6678-42BB-A639-1CFD0A6B65BB}|HW7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{632BB2E4-6678-42BB-A639-1CFD0A6B65BB}|HW7.csproj|c:\\users\\kaden\\desktop\\programming projects\\spreadsheet-clone\\spreadsheet-application\\spreadsheetui\\globalsuppressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{632BB2E4-6678-42BB-A639-1CFD0A6B65BB}|HW7.csproj|solutionrelative:globalsuppressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFF311F-574E-4728-9E51-F7E1AF12977C}|..\\HW6Tests\\HW6Tests.csproj|c:\\users\\kaden\\desktop\\programming projects\\spreadsheet-clone\\spreadsheet-application\\hw6tests\\hw6tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9D6B64-8DDF-43E7-B6C4-F39D0D31EA4B}|..\\HW5 Tests\\HW5Tests.csproj|c:\\users\\kaden\\desktop\\programming projects\\spreadsheet-clone\\spreadsheet-application\\hw5 tests\\hw5tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FB5BDCD-AA04-40F0-B4A8-94EECF1BE004}|..\\SpreadsheetEngine\\SpreadsheetEngine.csproj|c:\\users\\kaden\\desktop\\programming projects\\spreadsheet-clone\\spreadsheet-application\\spreadsheetengine\\spreadsheetengine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -73,11 +73,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "GlobalSuppressions.cs",
               "DocumentMoniker": "C:\\Users\\kaden\\Desktop\\Programming Projects\\Spreadsheet-Clone\\Spreadsheet-Application\\SpreadsheetUI\\GlobalSuppressions.cs",
               "RelativeDocumentMoniker": "GlobalSuppressions.cs",
@@ -90,20 +94,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HW6Tests",
+              "DocumentIndex": 2,
+              "Title": "HW6Tests.csproj",
               "DocumentMoniker": "C:\\Users\\kaden\\Desktop\\Programming Projects\\Spreadsheet-Clone\\Spreadsheet-Application\\HW6Tests\\HW6Tests.csproj",
               "RelativeDocumentMoniker": "..\\HW6Tests\\HW6Tests.csproj",
               "ToolTip": "C:\\Users\\kaden\\Desktop\\Programming Projects\\Spreadsheet-Clone\\Spreadsheet-Application\\HW6Tests\\HW6Tests.csproj",
               "RelativeToolTip": "..\\HW6Tests\\HW6Tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-04-15T21:52:18.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaden\\Desktop\\Programming Projects\\Spreadsheet-Clone\\Spreadsheet-Application\\SpreadsheetUI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -117,7 +121,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SpreadsheetEngine",
+              "Title": "SpreadsheetEngine.csproj",
               "DocumentMoniker": "C:\\Users\\kaden\\Desktop\\Programming Projects\\Spreadsheet-Clone\\Spreadsheet-Application\\SpreadsheetEngine\\SpreadsheetEngine.csproj",
               "RelativeDocumentMoniker": "..\\SpreadsheetEngine\\SpreadsheetEngine.csproj",
               "ToolTip": "C:\\Users\\kaden\\Desktop\\Programming Projects\\Spreadsheet-Clone\\Spreadsheet-Application\\SpreadsheetEngine\\SpreadsheetEngine.csproj",
@@ -129,8 +133,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HW5Tests",
+              "DocumentIndex": 3,
+              "Title": "HW5Tests.csproj",
               "DocumentMoniker": "C:\\Users\\kaden\\Desktop\\Programming Projects\\Spreadsheet-Clone\\Spreadsheet-Application\\HW5 Tests\\HW5Tests.csproj",
               "RelativeDocumentMoniker": "..\\HW5 Tests\\HW5Tests.csproj",
               "ToolTip": "C:\\Users\\kaden\\Desktop\\Programming Projects\\Spreadsheet-Clone\\Spreadsheet-Application\\HW5 Tests\\HW5Tests.csproj",
@@ -139,10 +143,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-04-15T21:51:36.717Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
@@ -154,8 +154,7 @@
               "RelativeToolTip": "stylecop.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-22T16:40:12.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T16:40:12.685Z"
             },
             {
               "$type": "Document",
